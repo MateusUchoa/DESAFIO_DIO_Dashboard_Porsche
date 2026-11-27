@@ -7,7 +7,7 @@
 
 > **Dashboard interativa de inteligência comercial** construída a partir de uma base sanitizada de 100 vendas da Porsche, publicada na web em arquivo único (`index.html`) — eliminando as limitações estáticas de planilhas tradicionais.
 
-🔗 **[Acesse a Dashboard Online (GitHub Pages)](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
+🔗 **[Acesse a Dashboard Online (GitHub Pages)]([https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/](https://mateusuchoa.github.io/DESAFIO_DIO_Dashboard_Porsche/))**
 
 ---
 
